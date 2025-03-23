@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="photo-1579548122080-c35fd6820ecb.jpg" alt="Imagem de fundo" width="100%" />
+  <img src="a.png" alt="Imagem de fundo" width="100%" />
 </div>
 
 <h1 align="center">👋 Hi there, welcome to my Github profile</h1>
