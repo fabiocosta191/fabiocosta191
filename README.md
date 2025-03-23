@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img src="c.png" alt="Imagem de fundo" height="110px" width="100%" />
+  <img src="c.png" alt="Imagem de fundo" height="110px" width="100%"  />
 </div>
-
 <h1 align="center">👋 Hi there, welcome to my Github profile</h1>
 <br>
 
