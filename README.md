@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="a.png" alt="Imagem de fundo" width="100%" />
-</div>
+
 
 <h1 align="center">👋 Hi there, welcome to my Github profile</h1>
 
