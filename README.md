@@ -1,6 +1,10 @@
 
+<div align="center">
+  <img src="c.png" alt="Imagem de fundo" height="90px" width="100%" />
+</div>
 
 <h1 align="center">👋 Hi there, welcome to my Github profile</h1>
+<br>
 
 ###
 
@@ -9,6 +13,7 @@
 ###
 
 <p align="left">👋 | Hi, I'm Fábio Costa!<br>📚 | A Computer Systems Engineering student, passionate about technology and innovation.<br>💻 | Currently focused on expanding my knowledge in software development, programming, and tech solutions.<br>🚀 | Always seeking new challenges and opportunities to learn, grow, and contribute to impactful projects.<br>🌟 | I believe in the power of collaboration and am open to connecting with other tech enthusiasts. Let's build the future together!</p>
+<br>
 
 ###
 
@@ -37,6 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
+<br>
 
 ###
 
@@ -60,6 +66,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/fabiocosta191/count.svg?"  />
 </div>
+<br>
 
 ###
 
@@ -80,5 +87,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+<br>
 
 ###
