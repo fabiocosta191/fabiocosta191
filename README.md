@@ -1,8 +1,7 @@
+<a href="https://github.com/fabiocosta191" style="display: block; width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&customColorList=2&text=👋%20Hi%20there,%20welcome%20to%20my%20Github%20profile&fontSize=40&textBg=false&animation=fadeIn" alt="Imagem de boas-vindas" style="width: 100%;">
+</a>
 
-<div align="center">
-  <img src="c.png" alt="Imagem de fundo" height="110px" width="100%"  />
-</div>
-<h1 align="center">👋 Hi there, welcome to my Github profile</h1>
 <br>
 
 ###
