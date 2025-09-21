@@ -59,11 +59,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiocosta191&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<!-- <div align="center"> -->
+<!--   <img src="https://profile-counter.glitch.me/fabiocosta191/count.svg?"  /> -->
+<!-- </div> -->
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fabiocosta191/count.svg?"  />
-</div>
 <br>
 
 ###
