@@ -67,23 +67,28 @@
 
 ###
 
-<h2 align="left">My Social Media</h2>
+<h2 align="left">🌐 My Social Media</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/fabiocosta191/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a></a>
-  <a href="https://www.instagram.com/fabiocosta191/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a></a>
-  <a href="https://x.com/fabiocosta191" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fabiocosta191/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/fabiocosta191/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white&style=for-the-badge)](https://x.com/fabiocosta191) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:fabio191costa@gmail.com) 
+
+<!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/989221598462640218)-->
+
+
+
 </div>
+
+
+
+
+
+
+
+
 <br>
 
 ###
